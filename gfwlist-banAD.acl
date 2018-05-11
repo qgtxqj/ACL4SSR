@@ -1370,6 +1370,9 @@
 (^|\.)\w*whatsapp\w*\.\w*$
 
 #GFWList
+(^|\.)apkmirror\.com$
+(^|\.)e2bo\.com$
+(^|\.)xwbo\.com$
 (^|\.)(.*)\.2\.bahamut\.com\.tw$
 (^|\.)(.*)\.global\.ssl\.fastly\.net$
 (^|\.)030buy\.com$
