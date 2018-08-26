@@ -1698,6 +1698,7 @@
 (^|\.)apetube\.com$
 (^|\.)api\.ai$
 (^|\.)api\.dropboxapi\.com$
+(^|\.)api\.e2bo\.com$
 (^|\.)api\.linksalpha\.com$
 (^|\.)api\.proxlet\.com$
 (^|\.)api\.recaptcha\.net$
@@ -6594,6 +6595,7 @@
 (^|\.)vidinfo\.org$
 (^|\.)vids\.myspace\.com$
 (^|\.)vietdaikynguyen\.com$
+(^|\.)view\.e2bo\.com$
 (^|\.)viewmorepics\.myspace\.com$
 (^|\.)vijayatemple\.org$
 (^|\.)vimeo\.com$
