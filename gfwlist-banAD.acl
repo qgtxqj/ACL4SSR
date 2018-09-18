@@ -1,5 +1,5 @@
 #**********************************************************************
-# 08.13
+# 09.18
 # 
 # 转载需要注明版权和来源
 # 
@@ -60,10 +60,9 @@
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
 (^|\.)(analytics|img1|img2|mimg|push)\.126\.net$
-(^|\.)(a|c|clkservice|conv|dsp|dsp-impr2|gorgon|impservice2|impservice|rlogs|union|ydpushserver)\.youdao\.com$
+(^|\.)(a|c|clkservice|conv|dsp|dsp-impr2|gorgon|rlogs|union|ydpushserver)\.youdao\.com$
 (^|\.)(nc004x|nc045x|qt002x|tb060x|tb104x)\.corp\.youdao\.com$
 (^|\.)(iadmat|haitaoad|iadmatvideo)\.nosdn\.127\.net$
-(^|\.)impservice\.(chnl|dict|dictapp|ictvista|dictweb|dictword|mail|union)\.youdao\.com$
 (^|\.)ir\.mail\.126\.com$
 (^|\.)ir\.mail\.yeah\.net$
 (^|\.)oimagea2\.ydstatic\.com$
@@ -134,9 +133,9 @@
 (^|\.)yiliao\.hupan\.com$
 
 # Baidu
-(^|\.)(a|adm|als|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.com$
-(^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.com$
-(^|\.)(pups|rj|rp|spcode|tk|tongji|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.com$
+(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
+(^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
+(^|\.)(pups|rj|rp|spcode|tk|tongji|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ashifen\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baikebcs\.bdimg\.com$
