@@ -5921,6 +5921,14 @@
 (^|\.)zzcartoon\.com$
 (^|\.)zzux\.com$
 
+# Other
+ (^|\.)doub\.io$
+ (^|\.)gameloft\.com$
+ (^|\.)quora\.com$
+ (^|\.)reddit\.com$
+ (^|\.)teddysun\.com$
+ (^|\.)unsplash\.com$
+ 
 # Instagram
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)cdninstagram\.com$
