@@ -1472,10 +1472,17 @@
 [proxy_list]
 
 ##91porn
-185.38.13.159
-192.240.120.34
+185.38.13.0/24
+192.240.120.0/24
 
 # MyList
+(^|\.)x6img\.com$
+(^|\.)vxotu\.com$
+(^|\.)e2bo\.com$
+(^|\.)xwbo\.com$
+(^|\.)toutyrater\.github\.io$
+(^|\.)skuimg\.com$
+(^|\.)touimg\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -1483,11 +1490,8 @@
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
 (^|\.)gvt\w\.com$
-(^|\.)microsoft\.com$
 (^|\.)ping\.pe$
 (^|\.)s3\.amazonaws\.com$
-(^|\.)skuimg\.com$
-(^|\.)touimg\.com$
 (^|\.)tumbex\.com$
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
@@ -6145,7 +6149,6 @@
 (^|\.)tosh\.comedycentral\.com$
 (^|\.)totalvpn\.com$
 (^|\.)toutiaoabc\.com$
-(^|\.)toutyrater\.github\.io$
 (^|\.)towngain\.com$
 (^|\.)toypark\.in$
 (^|\.)toythieves\.com$
