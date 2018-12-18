@@ -1,5 +1,5 @@
 #**********************************************************************
-# 12.7
+# 12.18
 #**********************************************************************
 
 [bypass_all]
@@ -9,22 +9,25 @@
 [proxy_list]
 
 ##91porn
-185.38.13.159
-192.240.120.34
+185.38.13.0/24
+192.240.120.0/24
 
 # MyList
-(^|\.)apkmirror\.com$
+(^|\.)x6img\.com$
+(^|\.)vxotu\.com$
+(^|\.)e2bo\.com$
+(^|\.)xwbo\.com$
+(^|\.)toutyrater\.github\.io$
+(^|\.)skuimg\.com$
+(^|\.)touimg\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.cc$
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
 (^|\.)gvt\w\.com$
-(^|\.)microsoft\.com$
 (^|\.)ping\.pe$
 (^|\.)s3\.amazonaws\.com$
-(^|\.)skuimg\.com$
-(^|\.)touimg\.com$
 (^|\.)tumbex\.com$
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
