@@ -35,9 +35,7 @@
 				"domain": [
 					"regexp:(^|\\.)duckdns\\.org$",
 					"regexp:(^|\\.)hopto\\.org$",
-					"full:yjy502.strangled.net",
-					"full:ymsc501.strangled.net",
-					"full:officezh.strangled.net"
+					"regexp:(^|\\.)strangled\\.net$"
 				]
 			},
 			{
