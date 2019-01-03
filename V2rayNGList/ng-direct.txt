@@ -1,0 +1,1 @@
+regexp:\.duckdns\.org$,regexp:\.strangled\.net$,regexp:\.hopto\.org$

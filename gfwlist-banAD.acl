@@ -1,5 +1,5 @@
 #**********************************************************************
-# 12.7
+# 1.3 adlist sync from 12.23
 #**********************************************************************
 
 [bypass_all]
@@ -837,6 +837,7 @@
 (^|\.)adlocus\.com$
 (^|\.)admin6\.com$
 (^|\.)admon\.cn$
+(^|\.)adnyg\.com$
 (^|\.)adpolestar\.net$
 (^|\.)adpro\.cn$
 (^|\.)adpush\.cn$
@@ -1086,11 +1087,13 @@
 (^|\.)social-touch\.com$
 (^|\.)somecoding\.com$
 (^|\.)sponsorpay\.com$
+(^|\.)stargame\.com$
 (^|\.)stg8\.com$
 (^|\.)switchadhub\.com$
 (^|\.)sycbbs\.com$
 (^|\.)synacast\.com$
 (^|\.)sysdig\.com$
+(^|\.)tagtic\.cn$
 (^|\.)talkingdata\.com$
 (^|\.)talkingdata\.net$
 (^|\.)tansuotv\.com$
@@ -1107,6 +1110,7 @@
 (^|\.)tuia\.cn$
 (^|\.)ueadlian\.com$
 (^|\.)uerzyr\.cn$
+(^|\.)ugdtimg\.com$
 (^|\.)ugvip\.com$
 (^|\.)ujian\.cc$
 (^|\.)ukeiae\.com$
@@ -1289,6 +1293,7 @@
 (^|\.)appget\.cn$
 (^|\.)appuu\.cn$
 (^|\.)coinhive\.com$
+(^|\.)huodonghezi\.cn$
 (^|\.)wanfeng1\.com$
 (^|\.)win-stock\.com\.cn$
 (^|\.)zantainet\.com$
