@@ -1,5 +1,13 @@
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
+	"routing": {
+		"domainStrategy": "IPIfNonMatch",
+		"balancers": [{
+			"tag": "balance",
+			"selector": [
+				"vul",
+				"bwg",
+				"gcp"
+			]
+		}],
     "rules": [
       {
         "type": "field",
@@ -20,7 +28,8 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "network": "tcp,udp",
+				"balancerTag": "balance",
         "domain": [
           "domain:sxotu.com",
           "domain:xoimg.club",
@@ -5616,7 +5625,8 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "network": "tcp,udp",
+				"balancerTag": "balance",
         "domain": [
           "1e100",
           "abema",
@@ -6803,7 +6813,8 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "network": "tcp,udp",
+				"balancerTag": "balance",
         "ip": [
           "1.201.0.0\/24",
           "103.2.28.0\/22",
