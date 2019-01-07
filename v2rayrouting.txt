@@ -157,6 +157,9 @@
 				"network": "tcp,udp",
 				"balancerTag": "balance",
 				"domain": [
+				  "domain:sxotu.com",
+          "domain:xoimg.club",
+          "domain:winudf.com",
 					"domain:030buy.com",
 					"domain:0rz.tw",
 					"domain:10.tt",
