@@ -13,6 +13,7 @@
 192.240.120.0/24
 
 # MyList
+(^|\.)sendvid\.com$
 (^|\.)sxotu\.com$
 (^|\.)xoimg\.club$
 (^|\.)winudf\.com$
